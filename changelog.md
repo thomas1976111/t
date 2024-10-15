@@ -1,5 +1,8 @@
 # PHPMailer Change Log
 
+## WIP
+* Add partial support for [RFC6530 SMTPUTF8](https://www.rfc-editor.org/rfc/rfc6530), permitting Unicode characters in local parts of addresses, thanks to @arnt and ICANN
+
 ## Version 6.9.2 (October 9th, 2024)
 * Escape dots in SMTP transaction ID patterns
 * Add link to [aboutmy.email](https://aboutmy.email) testing service in docs
